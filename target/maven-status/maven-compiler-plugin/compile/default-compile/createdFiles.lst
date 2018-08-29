@@ -1,0 +1,4 @@
+com/amgen/datamarketplace/Application.class
+com/amgen/datamarketplace/types/DocumentAttributes.class
+com/amgen/datamarketplace/resolvers/QueryResolvers.class
+com/amgen/datamarketplace/TextExtraction.class
