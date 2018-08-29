@@ -1,0 +1,9 @@
+type Query{
+    textExtraction(input:String!, output:String!): DocumentAttributes
+}
+
+type DocumentAttributes{
+    content: [String]!
+}
+
+
